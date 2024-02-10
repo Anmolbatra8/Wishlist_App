@@ -10,19 +10,6 @@ Wishlit is a super cool to add your bucket list, and have stored for a life time
 - Javascript
 
 
-## Author
-
--   Prakash Sakari - follow me on 👇
--   [GitHub](https://www.github.com/prakashsakari)
--   [LinkedIn](https://www.linkedin.com/in/prakashsakari/)
--   [Twitter](https://twitter.com/prakashsakari)
-
-
-## Live Link
-
-https://makewishlist.netlify.app/
-
-
 ## Run Locally
 
 Clone the project by adding the following command in the terminal.
